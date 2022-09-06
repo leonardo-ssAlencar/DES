@@ -59,7 +59,7 @@ def operacaoXor(chave, ladoD): #Faz a operação XOR entre chave e lado em todos
   return saidaXor
 
 
-def separarBits(textoXor): # Divide os 48 bits xor-zados em 8 conjuntos de 6 bits
+def separarBits(textoXor): # Divide os 48 bits "xor-zados" em 8 conjuntos de 6 bits
   separador = []
   sep = ""
   cont = 0
