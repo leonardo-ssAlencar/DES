@@ -8,5 +8,4 @@ Como foi durante a disciplina de algoritmos, eu não quis fazer ultilizando para
  
 ### Algumas mudanças que planejo fazer  
 - Melhorar o algoritmo como um todo
-- Reescrever no paradigma orientado a objetos
 - Documentar o projeto e organizar o codigo
